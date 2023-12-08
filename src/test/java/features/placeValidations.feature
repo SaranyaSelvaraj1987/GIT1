@@ -11,4 +11,5 @@ Feature: Add Place API Validations
 Examples:
 		|name    |language     |address         |
 		|Saran23 |Telugu       |Bangalore       |
+		|Leela12 |Tamil        |Coimbatore      |
 		
